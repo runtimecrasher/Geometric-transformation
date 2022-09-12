@@ -16,18 +16,27 @@ This repo provides a script to see an image A from the perspective of B image
 ## Example
 
 ### Input
-    <!-- insert a table of two columns -->
-    | A | B |
-    |---|---|
-    | ![](a.jpg) | ![](b.jpg) |
+<table>
+<tr>
+    <td>
+        <img src="https://user-images.githubusercontent.com/8725846/189564527-16eb9acb-f8e7-4d99-ae93-c9da064049e9.jpg" /> 
+    </td>
+    <td>
+        <img src="https://user-images.githubusercontent.com/8725846/189564536-afebcae5-5814-4d53-81c3-bdd41c5cdf50.jpg" /> 
+    </td>
+</tr>
+</table>
 
 ### Output
+<table>
+<tr>
+    <td>
+    <img width="770" alt="Screen Shot 2022-09-10 at 20 51 33" src="https://user-images.githubusercontent.com/8725846/189564652-5c844281-fa29-4943-b004-0312ef491fc2.png">
+    </td>
+</tr>
+</table>
 
-    
-    | |
-    ||
-    |  |
-
+  
 ## License
 MIT
 
